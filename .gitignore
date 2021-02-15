@@ -1,2 +1,4 @@
 *.sublime*
 data/*
+.vscode/
+image_slicer/__pycache__
